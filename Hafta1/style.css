@@ -1,0 +1,81 @@
+p {
+    color: chocolate;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.sınıf-bir {
+    color: darkmagenta;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#id-bir {
+    color: rgb(2, 255, 204);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.text {
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+.green {
+    color: greenyellow;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 50px solid black;
+    border-radius: 20px;
+    padding: 50px;
+    padding: 20px 5px;
+    padding: 15px 6px 3px 50px;
+    padding: 20px;
+    padding-bottom: 5px;
+    margin: 100px;
+}
+
+.bg-color {
+    background-color: aqua;
+    background-image: url("images/redJungle.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box-container{
+    position: relative;
+}
+.box1 {
+    /* position: absolute; */
+    width:200px;
+    height: 200px;
+    background-color: red;
+}
+.box2 {
+    /* position: absolute; */
+    /* z-index: 2; */
+    width:50px;
+    height: 50px;
+    background-color: blue;
+}
+.box3 {
+    /* position: absolute; */
+    /* z-index: 3; */
+    width:30px;
+    height: 30px;
+    background-color: black;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    gap: 50px;
+}
