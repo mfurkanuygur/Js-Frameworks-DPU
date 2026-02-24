@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color:darkgrey ;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-transform: capitalize;
+}
+nav ul li:nth-child(6){
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 50%;
+    padding: 6px 8px;
+}
+.entry-sec{
+    background-image: url("images/main-bg-img.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.entry-left{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.entry-left h1{
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.entry-left p{
+    max-width: 500px;
+    color: darkblue;
+}
+.entry-left button{
+    width: fit-content;
+    text-transform: capitalize;
+    padding: 10px 20px;
+    background-color: purple;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.arrow{
+    position: absolute;
+    left: 50%;
+    bottom: -30px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: white
+    ;
+}
+
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 20px ;
+    text-transform: capitalize;
+}
+
+nav ul li:nth-child(7){
+    border: 1px solid purple;
+    background-color: purple;
+    border-radius: 50%;
+    padding:7px;
+    color: white;
+}
+.entry-sec{
+    background-image: url("images/main-bg-img.png");
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.entry-left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.entry-left h1{
+    font-size: 50px;
+}
+.entry-left p{
+    max-width: 500px;
+}
+.entry-left button{
+    width: fit-content;
+} */
