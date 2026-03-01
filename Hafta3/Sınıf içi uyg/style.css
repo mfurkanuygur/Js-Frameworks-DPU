@@ -1,4 +1,111 @@
-*{
+* {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    /* background-color: red; */
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px
+}
+
+.entry {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url("images/main-bg-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.entry-left {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.entry-left h1 {
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.entry-left p {
+    color: gray;
+}
+
+.entry-left button {
+    width: fit-content;
+    padding: 10px 30px;
+    background-color: purple;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 10px;
+    border: 0;
+    cursor: pointer;
+}
+
+.second-section{
+    background-color: #F8F9FC;
+    height: 100vh;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-columns{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
     padding: 0;
     margin: 0;
     list-style-type: none;
@@ -68,4 +175,4 @@ nav ul li:nth-child(6){
     border-radius: 50%;
     background-color: white
     ;
-}
+} */
