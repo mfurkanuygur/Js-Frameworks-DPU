@@ -1,1 +1,13 @@
-eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiOGFjZDlkYjllYzMyZjI3Y2JhZmY3M2U4NTIxYWM5MSIsIm5iZiI6MTcxNTYxNDYzNC4xMDgsInN1YiI6IjY2NDIzM2FhZmIxYTAxOTAxY2ZmZWY3MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ln9Qi71bHuIrgdV4gCrNUnQS-JVC8lYOLRVw73JAdUI
+
+const options = {
+  method: 'GET',
+  headers: {
+    accept: 'application/json',
+    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiOGFjZDlkYjllYzMyZjI3Y2JhZmY3M2U4NTIxYWM5MSIsIm5iZiI6MTcxNTYxNDYzNC4xMDgsInN1YiI6IjY2NDIzM2FhZmIxYTAxOTAxY2ZmZWY3MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ln9Qi71bHuIrgdV4gCrNUnQS-JVC8lYOLRVw73JAdUI'
+  }
+};
+
+
+api1="https://api.themoviedb.org/3/discover/movie?&with_origin_country=JP&page=1&with_genres=16"
+
+api2="https://api.themoviedb.org/3/movie/${movieID}/videos?language=en-US"
