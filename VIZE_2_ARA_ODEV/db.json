@@ -1,0 +1,296 @@
+{
+  "products": [
+    {
+      "category": "Clothes",
+      "count": 40,
+      "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
+      "image": "https://i.imgur.com/cHddUCu.jpeg",
+      "price": "69.0",
+      "title": "Classic Heather Gray Hoodie 12",
+      "pid": "1",
+      "id": "w2UJ-5OGUhU"
+    },
+    {
+      "category": "Clothes",
+      "count": 50,
+      "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+      "image": "https://i.imgur.com/ZKGofuB.jpeg",
+      "price": "35.0",
+      "title": "Classic Comfort Fit Joggers",
+      "pid": "2",
+      "id": "abnYf4D_TxU"
+    },
+    {
+      "category": "Clothes",
+      "count": 70,
+      "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
+      "image": "https://i.imgur.com/JQRGIc2.jpeg",
+      "price": "79.0",
+      "title": "Classic Comfort Drawstring Joggers",
+      "pid": "3",
+      "id": "j3zhnW7EEIc"
+    },
+    {
+      "category": "Clothes",
+      "count": 40,
+      "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
+      "image": "https://i.imgur.com/9LFjwpI.jpeg",
+      "price": "98.0",
+      "title": "Classic Red Jogger Sweatpants",
+      "pid": "4",
+      "id": "vPiWO2w5Mlo"
+    },
+    {
+      "category": "Clothes",
+      "count": 40,
+      "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
+      "image": "https://i.imgur.com/76HAxcA.jpeg",
+      "price": "61.0",
+      "title": "Classic Navy Blue Baseball Cap",
+      "pid": "5",
+      "id": "iCy9rS_JOnQ"
+    },
+    {
+      "category": "Clothes",
+      "count": 40,
+      "description": "Top off your casual look with our Classic Blue Baseball Cap, made from high-quality materials for lasting comfort. Featuring a timeless six-panel design with a pre-curved visor, this adjustable cap offers both style and practicality for everyday wear.",
+      "image": "https://i.imgur.com/BZrIEmb.jpeg",
+      "price": "86.0",
+      "title": "Classic Blue Baseball Cap",
+      "pid": "6",
+      "id": "Uu9F3y2pkIo"
+    },
+    {
+      "category": "Clothes",
+      "count": 40,
+      "description": "Elevate your casual wardrobe with this timeless red baseball cap. Crafted from durable fabric, it features a comfortable fit with an adjustable strap at the back, ensuring one size fits all. Perfect for sunny days or adding a sporty touch to your outfit.",
+      "image": "https://i.imgur.com/cBuLvBi.jpeg",
+      "price": "35.0",
+      "title": "Classic Red Baseball Cap",
+      "pid": "7",
+      "id": "qdf56PqKikI"
+    },
+    {
+      "category": "Clothes",
+      "count": 50,
+      "description": "Elevate your casual wear with this timeless black baseball cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you’re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
+      "image": "https://i.imgur.com/KeqG6r4.jpeg",
+      "price": "100.0",
+      "title": "Classic Black Baseball Cap",
+      "pid": "8",
+      "id": "cqWBUU1GFAw"
+    },
+    {
+      "category": "Men's Clothing",
+      "count": 60,
+      "description": "Elevate your casual wardrobe with these classic olive chino shorts. Designed for comfort and versatility, they feature a smooth waistband, practical pockets, and a tailored fit that makes them perfect for both relaxed weekends and smart-casual occasions. The durable fabric ensures they hold up throughout your daily activities while maintaining a stylish look.",
+      "image": "https://i.imgur.com/UsFIvYs.jpeg",
+      "price": "85.0",
+      "title": "Classic Olive Chino Shorts",
+      "pid": "9",
+      "id": "TK19aCsVE2Y"
+    },
+    {
+      "category": "Clothes",
+      "count": 60,
+      "description": "Stay comfortable and stylish with our Classic High-Waisted Athletic Shorts. Designed for optimal movement and versatility, these shorts are a must-have for your workout wardrobe. Featuring a figure-flattering high waist, breathable fabric, and a secure fit that ensures they stay in place during any activity, these shorts are perfect for the gym, running, or even just casual wear.",
+      "image": "https://i.imgur.com/NLn4e7S.jpeg",
+      "price": "55.0",
+      "title": "Classic High-Waisted Athletic Shorts",
+      "pid": "10",
+      "id": "1JLQEua3xFY"
+    },
+    {
+      "category": "Clothes",
+      "count": 30,
+      "description": "Elevate your basics with this versatile white crew neck tee. Made from a soft, breathable cotton blend, it offers both comfort and durability. Its sleek, timeless design ensures it pairs well with virtually any outfit. Ideal for layering or wearing on its own, this t-shirt is a must-have staple for every wardrobe.",
+      "image": "https://i.imgur.com/axsyGpD.jpeg",
+      "price": "40.0",
+      "title": "Classic White Crew Neck T-Shirt",
+      "pid": "11",
+      "id": "1ZqKnHapWP0"
+    },
+    {
+      "category": "Clothes",
+      "count": 70,
+      "description": "Elevate your everyday wardrobe with our Classic White Tee. Crafted from premium soft cotton material, this versatile t-shirt combines comfort with durability, perfect for daily wear. Featuring a relaxed, unisex fit that flatters every body type, it's a staple piece for any casual ensemble. Easy to care for and machine washable, this white tee retains its shape and softness wash after wash. Pair it with your favorite jeans or layer it under a jacket for a smart look.",
+      "image": "https://i.imgur.com/Y54Bt8J.jpeg",
+      "price": "75.0",
+      "title": "Classic White Tee - Timeless Style and Comfort",
+      "pid": "12",
+      "id": "35r9kGx3zv4"
+    },
+    {
+      "category": "Clothes",
+      "count": 70,
+      "description": "Elevate your everyday style with our Classic Black T-Shirt. This staple piece is crafted from soft, breathable cotton for all-day comfort. Its versatile design features a classic crew neck and short sleeves, making it perfect for layering or wearing on its own. Durable and easy to care for, it's sure to become a favorite in your wardrobe.",
+      "image": "https://i.imgur.com/9DqEOV5.jpeg",
+      "price": "35.0",
+      "title": "Classic Black T-Shirt",
+      "pid": "13",
+      "id": "YyAV1L1eqw0"
+    },
+    {
+      "category": "Electronics",
+      "count": 100,
+      "description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "price": "75.0",
+      "title": "Sleek White & Orange Wireless Gaming Controller",
+      "pid": "14",
+      "id": "kaiVrIO3vWE"
+    },
+    {
+      "category": "Electronics",
+      "count": 100,
+      "description": "Experience the fusion of style and sound with this sophisticated audio set featuring a pair of sleek, white wireless headphones offering crystal-clear sound quality and over-ear comfort. The set also includes a set of durable earbuds, perfect for an on-the-go lifestyle. Elevate your music enjoyment with this versatile duo, designed to cater to all your listening needs.",
+      "image": "https://i.imgur.com/yVeIeDa.jpeg",
+      "price": "50.0",
+      "title": "Sleek Wireless Headphone & Inked Earbud Set",
+      "pid": "15",
+      "id": "qXz6sLl_FZU"
+    },
+    {
+      "category": "Electronics",
+      "count": 100,
+      "description": "Enhance your morning routine with our sleek 2-slice toaster, featuring adjustable browning controls and a removable crumb tray for easy cleaning. This compact and stylish appliance is perfect for any kitchen, ensuring your toast is always golden brown and delicious.",
+      "image": "https://i.imgur.com/keVCVIa.jpeg",
+      "price": "50.0",
+      "title": "Efficient 2-Slice Toaster",
+      "pid": "16",
+      "id": "aLJfigrLtrk"
+    },
+    {
+      "category": "Electronics",
+      "count": 25,
+      "description": "Experience smooth and precise navigation with this modern wireless mouse, featuring a glossy finish and a comfortable ergonomic design. Its responsive tracking and easy-to-use interface make it the perfect accessory for any desktop or laptop setup. The stylish blue hue adds a splash of color to your workspace, while its compact size ensures it fits neatly in your bag for on-the-go productivity.",
+      "image": "https://i.imgur.com/w3Y8NwQ.jpeg",
+      "price": "95.0",
+      "title": "Sleek Wireless Computer Mouse",
+      "pid": "17",
+      "id": "SIDB754Mp0w"
+    },
+    {
+      "category": "Electronics",
+      "count": 45,
+      "description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
+      "image": "https://i.imgur.com/OKn1KFI.jpeg",
+      "price": "195.0",
+      "title": "Sleek Modern Laptop with Ambient Lighting",
+      "pid": "18",
+      "id": "AtLftd-J0Gw"
+    },
+    {
+      "category": "Electronics",
+      "count": 45,
+      "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
+      "image": "https://i.imgur.com/ItHcq7o.jpeg",
+      "price": "295.0",
+      "title": "Sleek Modern Laptop for Professionals",
+      "pid": "19",
+      "id": "in-IuU1GeTo"
+    },
+    {
+      "category": "Electronics",
+      "count": 45,
+      "description": "Immerse yourself in superior sound quality with these sleek red and silver over-ear headphones. Designed for comfort and style, the headphones feature cushioned ear cups, an adjustable padded headband, and a detachable red cable for easy storage and portability. Perfect for music lovers and audiophiles who value both appearance and audio fidelity.",
+      "image": "https://i.imgur.com/YaSqa06.jpeg",
+      "price": "495.0",
+      "title": "Stylish Red & Silver Over-Ear Headphones",
+      "pid": "20",
+      "id": "zDaEPfC5T1k"
+    },
+    {
+      "category": "Electronics",
+      "count": 45,
+      "description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
+      "image": "https://i.imgur.com/bNiORct.jpeg",
+      "price": "25.0",
+      "title": "Sleek Mirror Finish Phone Case",
+      "pid": "21",
+      "id": "jXuY35hlyO4"
+    },
+    {
+      "category": "Electronics",
+      "count": 45,
+      "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
+      "image": "https://i.imgur.com/LGk9Jn2.jpeg",
+      "price": "225.0",
+      "title": "Sleek Smartwatch with Vibrant Display",
+      "pid": "22",
+      "id": "cfzfKL5uR84"
+    },
+    {
+      "category": "Furniture",
+      "count": 65,
+      "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "price": "1050.0",
+      "title": "Sleek Modern Leather Sofa",
+      "pid": "23",
+      "id": "Hm8Oidqn484"
+    },
+    {
+      "category": "Furniture",
+      "count": 65,
+      "description": "Elevate your dining room with this sleek Mid-Century Modern dining table, featuring an elegant walnut finish and tapered legs for a timeless aesthetic. Its sturdy wood construction and minimalist design make it a versatile piece that fits with a variety of decor styles. Perfect for intimate dinners or as a stylish spot for your morning coffee.",
+      "image": "https://i.imgur.com/DMQHGA0.jpeg",
+      "price": "1250.0",
+      "title": "Mid-Century Modern Wooden Dining Table",
+      "pid": "24",
+      "id": "s_X6Zd8QAjs"
+    },
+    {
+      "category": "Furniture",
+      "count": 65,
+      "description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
+      "image": "https://i.imgur.com/NWIJKUj.jpeg",
+      "price": "950.0",
+      "title": "Elegant Golden-Base Stone Top Dining Table",
+      "pid": "25",
+      "id": "fRpo3S2UFIM"
+    },
+    {
+      "category": "Furniture",
+      "count": 65,
+      "description": "Elevate your living space with this beautifully crafted armchair, featuring a sleek wooden frame that complements its vibrant teal upholstery. Ideal for adding a pop of color and contemporary style to any room, this chair provides both superb comfort and sophisticated design. Perfect for reading, relaxing, or creating a cozy conversation nook.",
+      "image": "https://i.imgur.com/6wkyyIN.jpeg",
+      "price": "950.0",
+      "title": "Modern Elegance Teal Armchair",
+      "pid": "26",
+      "id": "7yTrV4b2g_k"
+    },
+    {
+      "category": "Furniture",
+      "count": 65,
+      "description": "Enhance your dining space with this sleek, contemporary dining table, crafted from high-quality solid wood with a warm finish. Its sturdy construction and minimalist design make it a perfect addition for any home looking for a touch of elegance. Accommodates up to six guests comfortably and includes a striking fruit bowl centerpiece. The overhead lighting is not included.",
+      "image": "https://i.imgur.com/4lTaHfF.jpeg",
+      "price": "950.0",
+      "title": "Elegant Solid Wood Dining Table",
+      "pid": "27",
+      "id": "hgF_-uV23NI"
+    },
+    {
+      "category": "Furniture",
+      "count": 65,
+      "description": "Elevate your home office with our Modern Minimalist Workstation Setup, featuring a sleek wooden desk topped with an elegant computer, stylish adjustable wooden desk lamp, and complimentary accessories for a clean, productive workspace. This setup is perfect for professionals seeking a contemporary look that combines functionality with design.",
+      "image": "https://i.imgur.com/3oXNBst.jpeg",
+      "price": "850.0",
+      "title": "Modern Minimalist Workstation Setup",
+      "pid": "28",
+      "id": "mV_yUDyQ5Pg"
+    },
+    {
+      "category": "Furniture",
+      "count": 55,
+      "description": "Elevate your office space with this sleek and comfortable Modern Ergonomic Office Chair. Designed to provide optimal support throughout the workday, it features an adjustable height mechanism, smooth-rolling casters for easy mobility, and a cushioned seat for extended comfort. The clean lines and minimalist white design make it a versatile addition to any contemporary workspace.",
+      "image": "https://i.imgur.com/3dU0m72.jpeg",
+      "price": "350.0",
+      "title": "Modern Ergonomic Office Chair",
+      "pid": "29",
+      "id": "oS9mMSB1Fa4"
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
