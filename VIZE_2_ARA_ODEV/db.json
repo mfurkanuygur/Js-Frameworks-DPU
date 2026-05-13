@@ -291,6 +291,15 @@
       "id": "oS9mMSB1Fa4"
     }
   ],
-  "cart": [],
+  "cart": [{
+    "category": "Clothes",
+    "count": 40,
+    "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
+    "image": "https://i.imgur.com/cHddUCu.jpeg",
+    "price": "69.0",
+    "title": "Classic Heather Gray Hoodie 12",
+    "pid": "1",
+    "id": "w2UJ-5OGUhU"
+  }],
   "$schema": "./node_modules/json-server/schema.json"
 }

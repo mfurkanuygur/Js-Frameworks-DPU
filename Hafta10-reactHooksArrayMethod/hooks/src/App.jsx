@@ -25,8 +25,8 @@ function App() {
   }
 
       {/* Koşullu render */}
-      {/* {empty ? <div>sepet boş</div> : <div>sepetteki ürün sayısı {count}</div>} */}
-      {/* <button className={`${empty ? "bg-red-500" : "bg-blue-500"} `}>ekle</button> */}
+      {empty ? <div>sepet boş</div> : <div>sepetteki ürün sayısı {count}</div>}
+      <button className={`${empty ? "bg-red-500" : "bg-blue-500"} `}>ekle</button>
     </>
   )
 }
